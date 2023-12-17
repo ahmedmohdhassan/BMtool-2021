@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751178111175",
+    "project_id": "mtechbm",
+    "storage_bucket": "mtechbm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751178111175:android:8766aaa2b5f216159686e2",
+        "android_client_info": {
+          "package_name": "com.mahgoubtech.business_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751178111175-kgl5n7uttt5jqesh9865liaemhgnsn7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFA2kKkIeIvjghvMzmBmbQHEBxgwpgdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751178111175-kgl5n7uttt5jqesh9865liaemhgnsn7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
